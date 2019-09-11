@@ -29,7 +29,7 @@ Please move seats so you are sitting with your partner!
 
 ## Getting Started
 
-**Option 1**: One person clones this project into your Cloud9 environment using `git clone`, then you can work on this project using Pair Programming
+**Option 1**: One person clones this project into your Cloud9 environment using `git clone https://github.com/dschneideramphi/ahs-project-javascript`, then you can work on this project using Pair Programming
 
 **Option 2**: Both of you clone this project into your Cloud9 environment and you split up the work. Then, when Schneider returns, we learn how to combine the work back together. However, this does *not* mean you are doing separate projects - you each should have pieces that can combine back into the larger project.
 
